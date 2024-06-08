@@ -15,5 +15,6 @@ You will have 2 weeks from the end of the training perion to complete the exerci
 There are multiple exercises, each explained with a README file in the exercise folder:
 - Iris
 - PyROOT and RDataFrame
+- Columnar Analysis
 
 
