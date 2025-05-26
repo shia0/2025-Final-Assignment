@@ -1,4 +1,4 @@
-# 2024 Final Assignment
+# 2025 Final Assignment
 
 You'll find your assignments in the exercises directory.
 - Fork this repository,
