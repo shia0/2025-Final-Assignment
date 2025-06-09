@@ -16,5 +16,6 @@ There are multiple exercises, each explained with a README file in the exercise 
 - Iris
 - PyROOT and RDataFrame
 - Columnar Analysis
+- Machine Learning
 
 
